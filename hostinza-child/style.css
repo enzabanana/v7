@@ -51,14 +51,12 @@ Tags: left-sidebar, responsive-layout, accessibility-ready, custom-background, c
 .server-price-table tbody .price {
     color: #000000;
 }
-/* responsive */
+/* pricing table */
 
-.nav-sticky.sticky-header.sticky {
-    transform: translateY(-30%);
+.server-price-table tbody .price {
+    color: #1c4dbe;
 }
 
-.xs-header .nav-brand,
-.xs-header .xs-logo {
-    padding: 0;
-    width: 250px;
+.server-price-table tbody a.featured {
+    color: #1c4dbe;
 }
