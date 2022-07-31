@@ -1,0 +1,64 @@
+/*
+* Theme Name: Hostinza
+* Theme URI: https://5wire.co.uk
+* Description: Hostinza is a powerful and modern Hosting responsive WordPress Theme.
+* Version: 5.0
+* Author: 5wire
+* Author URI: http://www.5wire.co.uk
+Template: hostinza
+Version: 1.0
+Text Domain: hostinza
+Tags: left-sidebar, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+.banner-sub-title {
+    font-size: 1.01176rem !important;
+    font-weight: 400 !important;
+}
+
+.sidebar-textwidget .sidebar-logo-wraper {
+    margin-bottom: 33px;
+    width: 100%;
+}
+
+.xs-single-pricing .pricing-img-block {
+    margin-right: 40px;
+    margin-bottom: 18px;
+    width: 100%;
+}
+
+.logo {
+    width: 200px;
+    height: 29px;
+}
+
+.banner-sub-title {
+    font-size: 1.21176rem;
+    font-weight: 400;
+}
+
+.sidebar-textwidget .sidebar-logo-wraper {
+    margin-bottom: 33px;
+    width: 100%;
+}
+
+.xs-single-pricing .pricing-img-block {
+    /* margin-right: 40px; */
+    margin-bottom: 18px;
+    width: 100%;
+}
+
+.server-price-table tbody .price {
+    color: #000000;
+}
+/* responsive */
+
+.nav-sticky.sticky-header.sticky {
+    transform: translateY(-30%);
+}
+
+.xs-header .nav-brand,
+.xs-header .xs-logo {
+    padding: 0;
+    width: 250px;
+}
